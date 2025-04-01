@@ -14,6 +14,7 @@ public class U03_A2 {//Creo la clase
         System.out.println ("Hola, elige un numero escrito");
         String numero3 =  sc.next();     
         System.out.println ("Hola, has elegido " + numero3);
+	System.out.println("Denuevo yo aca");
         
     }
 }
